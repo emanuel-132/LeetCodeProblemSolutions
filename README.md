@@ -1,9 +1,9 @@
-LeetCode Problem Solutions Project Ver 1.00
-Introduction
+# LeetCode Problem Solutions Project Ver 1.00
+# Introduction
 This will contain different codes to solve 8 distinct problems. 
-How to use
+# How to use
 Simply Indetify the problem and run the program
-Version History
+# Version History
 Version 1.00
 Implement solution to problem 1
 Implement solution to problem 2
@@ -13,7 +13,7 @@ Implement solution to problem 5
 Implement solution to problem 6 
 Implement solution to problem 7 
 Implement solution to problem 8
-License
+# License
 Copyright 2026 Emanuel Rivera
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
