@@ -5,14 +5,14 @@
 Simply Indetify the problem and run the program
 # Version History
 Version 1.00
-- Implement solution to problem 1
-- Implement solution to problem 2
-- Implement solution to problem 3 
-- Implement solution to problem 4
-- Implement solution to problem 5
-- Implement solution to problem 6 
-- Implement solution to problem 7 
-- Implement solution to problem 8
+- Implement solution to problem 1: Two Sum (EASY), https://leetcode.com/problems/two-sum/description/ 
+- Implement solution to problem 27: Remove Element (EASY), https://leetcode.com/problems/remove-element/description/ 
+- Implement solution to problem 28: Haystack and Needle (EASY), https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/ 
+- Implement solution to problem 704: Search and Insert (EASY), https://leetcode.com/problems/binary-search/ 
+- Implement solution to problem 13: Roman to Integer (EASY), https://leetcode.com/problems/roman-to-integer/description/ 
+- Implement solution to problem 34: First and last (MID), https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/ 
+- Implement solution to problem 7: Reverse Integer (MID), https://leetcode.com/problems/reverse-integer/ 
+- Implement solution to problem 41: First Missing Positive (HARD), https://leetcode.com/problems/first-missing-positive/description/ 
 # License
  Copyright 2026 Emanuel Rivera 
 
